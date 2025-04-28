@@ -27,12 +27,12 @@ Tiedosto sisältää `users`- ja `workouts`-taulujen rakenteet ilman käyttäjä
 Tässä muutamia kuvankaappauksia sovelluksen käyttöliittymästä:
 
 ### Kirjautumissivu
-![Kirjautumissivu](images/login_sivu_preview.png)
+<img src="images/login_sivu_preview.png" alt="Kirjautumissivu" width="600">
 
 ### Rekisteröitymissivu
-![Rekisteröitymissivu](images/register_sivu_preview.png)
+<img src="images/register_sivu_preview.png" alt="Rekisteröitymissivu" width="600">
 
 ### Harjoitusten hallintanäkymä
-![Harjoitusnäkymä](images/ui_sivu_preview.png)
+<img src="images/ui_sivu_preview.png" alt="Harjoitusnäkymä" width="600">
 
 ---
